@@ -1,0 +1,7 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*log**/
+log*
+*.bson
+events.out.tfevents*

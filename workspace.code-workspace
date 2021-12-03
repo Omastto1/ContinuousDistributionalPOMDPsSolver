@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\thesis\\BeliefUpdaters.jl"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\thesis\\PointBasedValueIteration.jl"
+		},
+		{
+			"path": "..\\thesis\\MCTS.jl"
+		},
+		{
+			"path": "..\\thesis\\POMDPModels.jl"
+		},
+		{
+			"path": "DeepQLearning.jl"
+		}
+	],
+	"settings": {
+	}
+}
